@@ -8,3 +8,5 @@ desktop.ini
 node_modules/
 dist/
 build/
+
+*.pdf
